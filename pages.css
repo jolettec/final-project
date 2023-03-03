@@ -2,24 +2,24 @@ body {
     background-color: rgb(66, 66, 66);
   }
   
-  h1 {
+h1 {
     margin: 0%;
     text-align: center;
     color:rgb(167, 179, 190);
     font-size: 250%;
-  }
+}
   
-  #special {
+#special {
     padding-top: 10%;
-  }
+}
   
-  h2 {
+h2 {
     margin: 0%;
     text-align: center;
     color:rgb(167, 179, 190);
-  }
+}
   
-  p {
+p {
     background-color: rgb(34, 34, 34);
     text-align: left;
     margin-top: 75px;
@@ -29,7 +29,7 @@ body {
     max-width: 300px;
     max-height: 400px;
     color: rgb(167, 179, 190);
-  }
+}
   
   #image1 {
   background-color: rgb(34, 34, 34);

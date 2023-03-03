@@ -44,9 +44,3 @@ body {
     border-top: 2px inset rgb(167, 179, 190);
     border-bottom: 2px outset rgb(167, 179, 190);
   }
-  
-  #special {
-    margin-top: 80px;
-    margin-bottom: 50px;
-    border-top: none;
-  }
