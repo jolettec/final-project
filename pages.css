@@ -1,72 +1,72 @@
 body {
-    background-color: rgb(66, 66, 66);
+  background-color: rgb(66, 66, 66);
   }
   
 h1 {
-    margin: 0%;
-    text-align: center;
-    color:rgb(167, 179, 190);
-    font-size: 250%;
+  margin: 0%;
+  text-align: center;
+  color:rgb(167, 179, 190);
+  font-size: 250%;
 }
   
 #special {
-    padding-top: 10%;
+  padding-top: 10%;
 }
   
 h2 {
-    margin: 0%;
-    text-align: center;
-    color:rgb(167, 179, 190);
+  margin: 0%;
+  text-align: center;
+  color:rgb(167, 179, 190);
 }
   
 p {
-    background-color: rgb(34, 34, 34);
-    text-align: left;
-    margin-top: 75px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0px 50px 0px 0px;
-    max-width: 300px;
-    max-height: 400px;
-    color: rgb(167, 179, 190);
-}
-  
-  #image1 {
   background-color: rgb(34, 34, 34);
-  font-size: 350%;
+  text-align: center;
   margin-top: 75px;
   margin-left: auto;
   margin-right: auto;
-  padding: 0px 50px 0px 0px;
+  padding: 0px 0px 0px 0px;
   max-width: 300px;
   max-height: 400px;
   color: rgb(167, 179, 190);
-  }
+}
   
-  #image2 {
-    background-color: rgb(34, 34, 34);
-    text-align: right;
-    margin-top: 75px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0px 0px 0px 50px;
-    max-width: 300px;
-    max-height: 400px;
-    color: rgb(167, 179, 190);
-    }
+#image1 {
+  background-color: rgb(34, 34, 34);
+  margin-top: 75px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px 5px 0px 0px;
+  max-width: 350px;
+  max-height: 400px;
+  color: rgb(167, 179, 190);
+}
   
-  a {
-    display: block;
-    max-width: 350px;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    margin-top: 25px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    text-decoration: none;
-    font-size: 125%;
-    color: rgb(167, 179, 190);
-    border-top: 2px inset rgb(167, 179, 190);
-    border-bottom: 2px outset rgb(167, 179, 190);
-  }
+#image2 {
+  background-color: rgb(34, 34, 34);
+  text-align: right;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px 0px 0px 50px;
+  max-width: 300px;
+  max-height: 400px;
+  color: rgb(167, 179, 190);
+}
+  
+a {
+  display: block;
+  max-width: 350px;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-decoration: none;
+  font-size: 125%;
+  color: rgb(167, 179, 190);
+  border-top: 2px inset rgb(167, 179, 190);
+  border-bottom: 2px outset rgb(167, 179, 190);
+}
